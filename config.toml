@@ -1,4 +1,4 @@
-baseURL = "https://sewdohe.github.io/wiki-craftnectar/"
+baseURL = "https://wiki.craft.divnectar.com/"
 languageCode = "en-us"
 relativeURLs = false
 disablePathToLower = true
