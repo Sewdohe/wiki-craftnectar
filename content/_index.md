@@ -1,27 +1,29 @@
 ---
-title: 🪴 Quartz 3.3
-enableToc: false
+title: CraftNectar
+enableToc: true
 ---
 
-Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
+**CraftNectar** - We like modded minecraft
 
-1. Extremely fast natural-language [[notes/search]]
-2. Customizable and hackable design based on [Hugo](https://gohugo.io/)
-3. Automatically generated backlinks, link previews, and local graph
-4. Built-in [[notes/CJK + Latex Support (测试) | CJK + Latex Support]] and [[notes/callouts | Admonition-style callouts]]
-5. Support for both Markdown Links and Wikilinks
+[Upcoming update v1.0.7](notes/update)
 
-Check out some of the [amazing gardens that community members](notes/showcase.md) have published with Quartz or read about [why I made Quartz](notes/philosophy.md) to begin with.
+Are you tired of vanilla Minecraft? Do you want to experience new dimensions, creatures, and items? Look no further than our modded server! Our server provides a unique and exciting experience for all players. With over 200 mods installed, you will be able to explore new worlds, craft powerful weapons, drive crazy vehicles, build amazing machines, fight challenging bosses, and so so much more!
+  
+## Wiki Quick Links
+* [[notes/connection-instructions]]
+* [[notes/land-claim]]
+* [[notes/currency]]
+* [[notes/earning-claims]]
+* [[notes/crafting]]
+  
+Happy crafting!
 
-## Get Started
-> 📚 Step 1: [Setup your own digital garden using Quartz](notes/setup.md)
+---
+Conenction URL: `craft.divnectar.com`
 
-Returning user? Figure out how to [[notes/updating|update]] your existing Quartz garden.
+Connection Instructions: [[notes/connection-instructions]]
 
-If you prefer browsing the contents of this site through a list instead of a graph, you see a list of all [setup-related notes](/tags/setup).
+The modpack is also available as a pack on [Curse Forge](https://www.curseforge.com/minecraft/modpacks/craftnectar) now!
 
-### Troubleshooting
-- 🚧 [Troubleshooting and FAQ](notes/troubleshooting.md)
-- 🐛 [Submit an Issue](https://github.com/jackyzha0/quartz/issues)
-- 👀 [Discord Community](https://discord.gg/cRFFHYye7t)
+Discord Server: [Link](https://discord.gg/9e67uZuMzD)
 
